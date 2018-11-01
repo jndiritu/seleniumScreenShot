@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="screenShotExample" duration-ms="24811" started-at="2018-11-01T08:58:47Z" finished-at="2018-11-01T08:59:11Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="24811" started-at="2018-11-01T08:58:47Z" finished-at="2018-11-01T08:59:11Z">
+      <class name="screenShotExample">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:screenShotExample@2dd0740e]" name="setUpClass" is-config="true" duration-ms="12" started-at="2018-11-01T11:58:47Z" finished-at="2018-11-01T11:58:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:screenShotExample@2dd0740e]" name="setUpMethod" is-config="true" duration-ms="3239" started-at="2018-11-01T11:58:47Z" finished-at="2018-11-01T11:58:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="screenShotExample()[pri:0, instance:screenShotExample@2dd0740e]" name="screenShotExample" duration-ms="20978" started-at="2018-11-01T11:58:50Z" finished-at="2018-11-01T11:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShotExample -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:screenShotExample@2dd0740e]" name="tearDownMethod" is-config="true" duration-ms="568" started-at="2018-11-01T11:59:11Z" finished-at="2018-11-01T11:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:screenShotExample@2dd0740e]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2018-11-01T11:59:11Z" finished-at="2018-11-01T11:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- screenShotExample -->
+    </test> <!-- Command line test -->
+  </suite> <!-- screenShotExample -->
+</testng-results>
